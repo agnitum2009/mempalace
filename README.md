@@ -76,7 +76,7 @@ Three mining modes: **projects** (code and docs), **convos** (conversation expor
 
 After the one-time setup (install → init → mine), you don't run MemPalace commands manually. Your AI uses it for you. There are two ways, depending on which AI you use.
 
-### With Claude, ChatGPT, Cursor (MCP-compatible tools)
+### With Claude, ChatGPT, Cursor, Gemini (MCP-compatible tools)
 
 ```bash
 # Connect MemPalace once
